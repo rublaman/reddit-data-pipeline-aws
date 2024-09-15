@@ -1,5 +1,6 @@
 # Project
 .env
+config/
 logs/
 
 # Byte-compiled / optimized / DLL files
