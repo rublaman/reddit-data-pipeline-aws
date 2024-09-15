@@ -2,6 +2,7 @@
 .env
 config/
 logs/
+airflow.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
